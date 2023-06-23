@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant-1729&label=Profile%20views&color=0e75b6&style=flat" alt="vedant-1729" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithm and Flutter**
+- 🌱 I’m currently learning **Data Structures and Algorithm and App Development**
 
 - 💬 Ask me about **Mern Stack**
 
