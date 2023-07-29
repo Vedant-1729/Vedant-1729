@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant-1729&label=Profile%20views&color=0e75b6&style=flat" alt="vedant-1729" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithm and App Development**
+- 🌱 I’m currently learning **Data Structures and Algorithm and Deep Learning**
 
-- 💬 Ask me about **Mern Stack**
+- 💬 Ask me about **Mern Stack** and **Machine Learning**
 
 - 📫 How to reach me **vedant.shinde.1729@gmail.com**
 
